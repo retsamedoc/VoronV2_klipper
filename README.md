@@ -1,4 +1,6 @@
-# Voron V2 Klipper Profile
+# Voron V2.4 Klipper Profile
+
+_This is a work in progress; more so then usual since I have not completed the hardware build (front loading mostly)._
 
 Packages: 
   https://github.com/KevinOConnor/klipper
@@ -10,6 +12,7 @@ Hardware:
 - 2x BigTreeTech SKR 1.3 Controller Boards
 
 Mods:
+- None.
 
 Updates:
 - Initial upload.
