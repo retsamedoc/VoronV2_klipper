@@ -20,7 +20,6 @@ Mods/Deviations (W.R.T. Stock V2.4):
 - Cork insulation directly under hotbed to protect electronic chamber from direct/radiated heat.
 - Edwardyeeks' [Purge Bucket and Nozzle cleaner](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
 
-
 Updates:
 - System operational. Additional tuning and printing of remaining parts (skirts, exhaust, etc) in progress.
 - Hotbed and hotend calibrated.
@@ -28,4 +27,5 @@ Updates:
 - All motors are functional. X/Y can home using the hall effect sensor.
 
 - - - 
-This repo based on f0or1s' [cr10_klipper repo](http://github.com/fl0r1s/cr10_klipper).
+This repo based on f0or1s' [cr10_klipper repo](http://github.com/fl0r1s/cr10_klipper), rpanfili's [woron-ht repo](http://github.com/rpanfili/voron-ht), and Zellneralex's [klipper_config repo](http://github.com/zellneralex/klipper_config) among many others.
+It is a work in progress as I keept finding new and better ways to organize/tune my setup.
