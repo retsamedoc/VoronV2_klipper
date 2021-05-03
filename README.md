@@ -19,6 +19,7 @@ Mods/Deviations (W.R.T. Stock V2.4):
 - Changed controller chamber fans to be controlled by each SKR (fans only operate when the drivers are active).
 - Cork insulation directly under hotbed to protect electronic chamber from direct/radiated heat.
 - Edwardyeeks' [Purge Bucket and Nozzle cleaner](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
+- BadNoob's [**A**fter**B**urner **B**ad**N**oob Version **30**](https://github.com/VoronDesign/VoronUsers/pull/302) (finally released/public)
 
 Updates:
 - System operational. Additional tuning and printing of remaining parts (skirts, exhaust, etc) in progress.
