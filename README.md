@@ -8,11 +8,11 @@ Software:
 
 Hardware:
 - Raspberry Pi 4B
-- 2x BigTreeTech SKR 1.3 Controller Boards
+- Fysetc Spider V1.0 Controller Board
 
 Mods/Deviations (W.R.T. Stock V2.4):
 - Raspberry Pi uses a [heatframe](https://smile.amazon.com/gp/product/B085XPHY77) for efficent passive cooling.
-- 12V LED Strips (controlled by Z board) for chamber lighting.
+- 12V LED Strips for chamber lighting.
 - Edwardyeeks' [Braced Z Drive Motor/Tensioner](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod)
 - Ellis' [Short Z Joints](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Short_Z_Joints)
 - StvPtrsn's [Side Fan Supports w/o Tape](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/StvPtrsn/Side_Fan_Support_No_Tape)
@@ -22,6 +22,7 @@ Mods/Deviations (W.R.T. Stock V2.4):
 - BadNoob's [**A**fter**B**urner **B**ad**N**oob Version **30**](https://github.com/VoronDesign/VoronUsers/pull/302) (finally released/public)
 
 Updates:
+- Replaced 2x SKR 1.3 controllers with single Fysetc Spider.
 - System operational. Additional tuning and printing of remaining parts (skirts, exhaust, etc) in progress.
 - Hotbed and hotend calibrated.
 - First print (PLA) and machine serialized (V2.823).
