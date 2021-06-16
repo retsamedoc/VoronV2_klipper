@@ -22,6 +22,7 @@ Mods/Deviations (W.R.T. Stock V2.4):
 - BadNoob's [**A**fter**B**urner **B**ad**N**oob Version **30**](https://github.com/VoronDesign/VoronUsers/pull/302) (finally released/public)
 
 Updates:
+- Added code to allow moonraker's Update Manager to pull config changes.
 - Replaced 2x SKR 1.3 controllers with single Fysetc Spider.
 - System operational. Additional tuning and printing of remaining parts (skirts, exhaust, etc) in progress.
 - Hotbed and hotend calibrated.
