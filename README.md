@@ -20,8 +20,18 @@ Mods/Deviations (W.R.T. Stock V2.4):
 - Cork insulation directly under hotbed to protect electronic chamber from direct/radiated heat.
 - Edwardyeeks' [Purge Bucket and Nozzle cleaner](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
 - BadNoob's [**A**fter**B**urner **B**ad**N**oob Version **30**](https://github.com/VoronDesign/VoronUsers/pull/302) (finally released/public)
+- Wile-e1's [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
+- Hartk's [AB Toolhead PCB](https://github.com/hartk1213/MISC/tree/main/PCBs/Afterburner_Toolhead_PCB)
+- JosAr's [Klicky Probe](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe)
+- ProtoLoft/TitusLabs' [Z Calibration Plugin](https://github.com/protoloft/klipper_z_calibration)
+
+Planned Mods:
+- Hartk's [GE5C Z Bearings](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C)
+- Hartk's [Pins Mode](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
+- Hartk's [Y Endstop Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
 
 Updates:
+- Rewired entire machine w/ PTFE, added Hartk's Toolhead PCB, replaced Omron Probe w/ Klicky probe.
 - Added code to allow moonraker's Update Manager to pull config changes.
 - Replaced 2x SKR 1.3 controllers with single Fysetc Spider.
 - System operational. Additional tuning and printing of remaining parts (skirts, exhaust, etc) in progress.
