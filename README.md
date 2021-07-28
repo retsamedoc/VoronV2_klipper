@@ -28,6 +28,9 @@ Mods/Deviations (W.R.T. Stock V2.4):
 - Hartk's [Pins Mode](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
 - Hartk's [Y Endstop Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
 - Replaced the stock V2 X Carriage Frame w/ the stock V1.8 version (includes X endstop location).
+- Phalanx' ["Other" Idlers](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Phalanx/Other-V2-Idlers)
+- JaredC01's [Galileo Clockwork](https://github.com/JaredC01/Galileo)
+- Leandromarceddu's [ADXL345 Galileo Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/leandromarceddu/GalileoADXL)
 
 Updates:
 - Replaced all motions parts on the gantry w/ pinned parts. Relocated X/Y Endstops.
