@@ -5,11 +5,13 @@ Software:
 - [Klipper](https://github.com/KevinOConnor/klipper)
 - [Moonraker](https://github.com/Arksine/moonraker)
 - [Mainsail](https://github.com/meteyou/mainsail)
+- [KlipperScreen](https://github.com/jordanruthe/KlipperScreen/)
 
 Hardware:
 - Raspberry Pi 4B
 - Fysetc Spider V1.0 Controller Board
 - TMC2209 Stepper Drivers
+- BTT PiTFT50 V1.0 Display
 
 Mods/Deviations (W.R.T. Stock V2.4):
 - Raspberry Pi uses a [heatframe](https://smile.amazon.com/gp/product/B085XPHY77) for efficent passive cooling.
