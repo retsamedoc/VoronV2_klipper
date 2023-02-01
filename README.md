@@ -24,17 +24,16 @@ Mods/Deviations (W.R.T. Stock V2.4):
 - BadNoob's [**A**fter**B**urner **B**ad**N**oob Version **30**](https://github.com/VoronDesign/VoronUsers/pull/302) (finally released/public)
 - Wile-e1's [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 - Hartk's [AB Toolhead PCB](https://github.com/hartk1213/MISC/tree/main/PCBs/Afterburner_Toolhead_PCB)
-- JosAr's [Klicky Probe](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe)
-- ProtoLoft/TitusLabs' [Z Calibration Plugin](https://github.com/protoloft/klipper_z_calibration)
+- Voron [TAP](https://github.com/VoronDesign/Voron-Tap)
 - Hartk's [GE5C Z Bearings](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C)
 - Hartk's [Pins Mode](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
 - Hartk's [Y Endstop Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
-- Replaced the stock V2 X Carriage Frame w/ the stock V1.8 version (includes X endstop location).
 - Phalanx' ["Other" Idlers](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Phalanx/Other-V2-Idlers)
 - JaredC01's [Galileo Clockwork](https://github.com/JaredC01/Galileo)
 - Leandromarceddu's [ADXL345 Galileo Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/leandromarceddu/GalileoADXL)
 
 Updates:
+- Replaced klicky probe w/ TAP.
 - Replaced all motions parts on the gantry w/ pinned parts. Relocated X/Y Endstops.
 - Rewired entire machine w/ PTFE, added Hartk's Toolhead PCB, replaced Omron Probe w/ Klicky probe.
 - Added code to allow moonraker's Update Manager to pull config changes.
